@@ -4,4 +4,4 @@
 
 ### 2018
 
-[June 24 - June 30](./ArticleList/june24-jun30.md)
+[June 25 - June 31](./ArticleList/june24-jun31.md)
