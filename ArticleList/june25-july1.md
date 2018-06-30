@@ -1,4 +1,4 @@
-# June 25 - June 31
+# June 25 - July 1
 
 [E-commerce mobile shop with React-Native and Redux](https://medium.com/@egaleme/e-commerce-mobile-shop-with-react-native-and-redux-623e829db967)
 
