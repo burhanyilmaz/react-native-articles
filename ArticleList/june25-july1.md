@@ -17,3 +17,9 @@
 [Custom Drawer Navigator React Native](https://medium.com/@amitdhawan_20991/custom-drawer-navigator-react-native-c25ce927fc39)
 
 [An Example of Realm in React Native](https://medium.com/@yangzhoupostbox/an-example-of-realm-js-in-react-native-c86fa94f088c)
+
+[Building a Persistent React Native Chat App: Part I — Database](https://medium.com/@gabrielrumbaut/building-a-persistent-react-native-chat-app-part-i-database-ae9de470ebff)
+
+[Building a Persistent React Native Chat App: Part II — Server](https://medium.com/@gabrielrumbaut/building-a-persistent-react-native-chat-app-part-ii-server-d9fc16061afe)
+
+[React Native persist data (Redux-persist)](https://medium.com/@gorairanvir/2-react-native-persist-data-redux-persist-68b7e47fe69c)
