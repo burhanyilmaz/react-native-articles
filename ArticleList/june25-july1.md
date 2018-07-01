@@ -23,3 +23,5 @@
 [Building a Persistent React Native Chat App: Part II — Server](https://medium.com/@gabrielrumbaut/building-a-persistent-react-native-chat-app-part-ii-server-d9fc16061afe)
 
 [React Native persist data (Redux-persist)](https://medium.com/@gorairanvir/2-react-native-persist-data-redux-persist-68b7e47fe69c)
+
+[Advanced React Native styling with a few lines of code](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015)
