@@ -12,6 +12,18 @@
 
 [Top React-native packages that you should use in your next Project](https://medium.com/@puriadeveloper/top-react-native-packages-that-you-should-use-in-your-next-project-6067ef45278f)
 
+[Starting Over with React Native](https://medium.com/@amanhimself/starting-over-with-react-native-aff0dbdf5909)
+
+[OpenCalc — React Native — Deep Dive (Part 1)](https://medium.com/ml-everything/opencalc-react-native-deep-dive-part-1-c4299fd0222a)
+
+[Sign in with Facebook identity providers Amazon Cognito on React-Native App](https://medium.com/@toanphan/sign-in-with-facebook-identity-providers-amazon-cognito-on-react-native-app-1b8605e4eb85)
+
+[How to integrate UPI Payment feature in react-native app (android)?](https://medium.com/@er.dhavi777/how-to-integrate-upi-payment-feature-in-react-native-app-android-a7577458a7b7)
+
+### Redux
+
+[ReactNative With Redux — Step by step with Tasky app!](https://blog.botreetechnologies.com/react-with-redux-step-by-step-with-tasky-app-2726a5dedbff)
+
 ### Navigation
 
 [CustomTabNavigation — CodingChallenge #1](https://medium.com/@suha.baobaid/customtabnavigation-codingchallenge-1-b2db1d978801)
@@ -30,6 +42,7 @@
 
 [Hit Testing in ARKit](https://blog.expo.io/hit-testing-in-arkit-cae8845ee1c4)
 
+[Instagram Clone (!) using Firebase, React Native & Expo.](https://blog.expo.io/instagram-clone-using-firebase-react-native-expo-cc32f61c7bba)
 
 ### Test
 
@@ -41,3 +54,15 @@
 ### Form
 
 [React Native Forms](https://medium.com/@muratsert1453/react-native-forms-a0e174ca134f)
+
+## Notification
+
+[How to set up Firebase Notification in React-native App (Android only)](https://medium.com/@yangnana11/how-to-set-up-firebase-notification-in-react-native-app-android-only-4920eb875eae)
+
+## Deep Linking
+
+[Deep Linking in React Native](https://tech.decisiv.com/deep-linking-in-react-native-bf294da045db)
+
+## Animation
+
+[Facebook Reactions Animation with React Native](https://medium.com/@duytq94/facebook-reactions-animation-with-react-native-8f750e136ff5)
