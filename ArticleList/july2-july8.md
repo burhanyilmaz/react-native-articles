@@ -20,6 +20,10 @@
 
 [How to integrate UPI Payment feature in react-native app (android)?](https://medium.com/@er.dhavi777/how-to-integrate-upi-payment-feature-in-react-native-app-android-a7577458a7b7)
 
+[2 Minutes to speed up your work - React Native Developers](https://medium.com/@thakurballary/2-minutes-to-speed-up-your-work-react-native-developers-3dbc8d7f2243)
+
+[Building a Persistent React Native Chat App: Part III — React Native App](https://medium.com/@gabrielrumbaut/building-a-persistent-react-native-chat-app-part-iii-react-native-app-13d5b4146524)
+
 ### Redux
 
 [ReactNative With Redux — Step by step with Tasky app!](https://blog.botreetechnologies.com/react-with-redux-step-by-step-with-tasky-app-2726a5dedbff)
