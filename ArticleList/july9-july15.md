@@ -6,6 +6,8 @@
 
 [Record and Upload Videos with React Native](https://medium.com/react-native-training/uploading-videos-from-react-native-c79f520b9ae1)
 
+[Getting IMEI from an Android device using React Native](https://medium.com/alturasoluciones/getting-imei-from-an-android-device-using-react-native-5fd03cb3a261)
+
 ### Expo
 
 [Simple release worflow for react native with expo](https://medium.com/@flexbox/react-native-expo-1734e6d7891)
