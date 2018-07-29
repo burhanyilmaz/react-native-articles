@@ -1,6 +1,6 @@
 ![](./resources/images/logo.png)
 
-#### React Native Article on the Play Store
+### React Native Article on the Play Store
 <a href="https://play.google.com/store/apps/details?id=com.reactnativearticles">
 <image src="./resources/images/playstore.png" width="205" height="45">
 </a>
