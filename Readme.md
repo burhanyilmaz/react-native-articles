@@ -7,6 +7,8 @@
 
 ### 2018
 
+[July 30 - Aug 5](./ArticleList/july30-aug5.md) (***13 Articles***)
+
 [July 23 - July 29](./ArticleList/july23-july29.md) (***12 Articles***)
 
 [July 16 - July 22](./ArticleList/july16-july22.md) (***10 Articles***)
