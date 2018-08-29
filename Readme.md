@@ -7,7 +7,7 @@
 
 ### 2018
 
-[Aug 13 - Aug 19](./ArticleList/aug20-aug26.md) (***25 Articles***)
+[Aug 20 - Aug 26](./ArticleList/aug20-aug26.md) (***25 Articles***)
 
 [Aug 13 - Aug 19](./ArticleList/aug13-aug19.md) (***27 Articles***)
 
