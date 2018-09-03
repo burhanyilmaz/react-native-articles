@@ -1,28 +1,66 @@
 ![](./resources/images/logo.png)
 
-### React Native Article on the Play Store
+### React Native Articles on the Play Store, Medium
 <a href="https://play.google.com/store/apps/details?id=com.reactnativearticles">
 <image src="./resources/images/playstore.png" width="205" height="45">
 </a>
+<a href="https://medium.com/@reactnativearticles">
+<image src="./resources/images/medium.png" width="190" height="45" >
+</a>
 
-### 2018
+### Categories
 
-[Aug 20 - Aug 26](./ArticleList/aug20-aug26.md) (***25 Articles***)
+[App Purchase](./ArticleList/appPurchase.md)   (***1 Articles***)
 
-[Aug 13 - Aug 19](./ArticleList/aug13-aug19.md) (***27 Articles***)
+[General](./ArticleList/general.md) (***60 Articles***)
 
-[Aug 6 - Aug 12](./ArticleList/aug6-aug12.md) (***13 Articles***)
+[React Native Navigation](./ArticleList/reactNativeNavigation.md) (***13 Articles***)
 
-[July 30 - Aug 5](./ArticleList/july30-aug5.md) (***13 Articles***)
+[Debugging](./ArticleList/debugging.md) (***1  Articles***)
 
-[July 23 - July 29](./ArticleList/july23-july29.md) (***12 Articles***)
+[Expo](./ArticleList/expo.md) (***17 Articles***)
 
-[July 16 - July 22](./ArticleList/july16-july22.md) (***10 Articles***)
+[UI](./ArticleList/ui.md) (***1 Articles***)
 
-[July 9 - July 15](./ArticleList/july9-july15.md) (***14 Articles***)
+[Performance](./ArticleList/performance.md) (***4 Articles***)
 
-[July 2 - July 8](./ArticleList/july2-july8.md)  (***25 Articles***)
+[Animation](./ArticleList/animation.md) (***9 Articles***)
 
-[June 25 - July 1](./ArticleList/june25-july1.md)  (***12 Articles***)
+[Clone App](./ArticleList/cloneApp.md) (***6 Articles***)
 
-[Past](./ArticleList/past.md)  (***1 Articles***)
+[Firebase](./ArticleList/firebase.md) (***4 Articles***)
+
+[Ar&VR](./ArticleList/arvr.md) (***5 Articles***)
+
+[GraphQL](./ArticleList/graphql.md) (***1 Articles***)
+
+[Test](./ArticleList/test.md) (***4 Articles***)
+
+[Map](./ArticleList/map.md) (***6 Articles***)
+
+[Style](./ArticleList/style.md) (***3 Articles***)
+
+[Redux](./ArticleList/redux.md) (***4  Articles***)
+
+[Form](./ArticleList/form.md) (***1 Articles***)
+
+[Notification](./ArticleList/notification.md) (***3 Articles***)
+
+[Deep Linking](./ArticleList/deepLinking.md) (***1 Articles***)
+
+[Ignite](./ArticleList/ignite.md) (***1 Articles***)
+
+[Wix Navigation](./ArticleList/wixNavigation.md) (***2 Articles***)
+
+[Game](./ArticleList/game.md) (***1 Articles***)
+
+[Local Database](./ArticleList/localDatabase.md) (***2 Articles***)
+
+[React Native Router Flux](./ArticleList/reactNativeRouterFlux.md) (***1 Articles***)
+
+[Socket.io](./ArticleList/socketio.md) (***1 Articles***)
+
+[Library](./ArticleList/library.md) (***1 Articles***)
+
+
+## Sponsor
