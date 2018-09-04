@@ -20,7 +20,7 @@
 
 [Debugging](./ArticleList/debugging.md) (***1  Articles***)
 
-[Deep Linking](./ArticleList/deepLinking.md) (***1 Articles***)
+[Deep Linking](./ArticleList/deepLinking.md) (***2 Articles***)
 
 [Expo](./ArticleList/expo.md) (***17 Articles***)
 
