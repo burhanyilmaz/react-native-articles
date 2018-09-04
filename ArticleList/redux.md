@@ -1,5 +1,7 @@
 # Redux
 <!--- 4 Articles-->
+[How to integrate Redux into your application with React Native and Exp](https://medium.freecodecamp.org/how-to-integrate-redux-into-your-application-with-react-native-and-expo-ec37c9ca6033)
+
 [ReactNative With Redux — Step by step with Tasky app!](https://blog.botreetechnologies.com/react-with-redux-step-by-step-with-tasky-app-2726a5dedbff)
 
 [Using JWT with fetch in React Native Redux without middleware](https://medium.com/@stephentapnm/using-jwt-in-react-native-redux-without-middleware-71c422f2c8b7)
