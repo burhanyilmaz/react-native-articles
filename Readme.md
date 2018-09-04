@@ -46,6 +46,8 @@
 
 [Performance](./ArticleList/performance.md) (***4 Articles***)
 
+[React Native Easy Router](./ArticleList/reactNativeEasyRouter.md) (***1 Articles***)
+
 [React Native Navigation](./ArticleList/reactNativeNavigation.md) (***13 Articles***)
 
 [Redux](./ArticleList/redux.md) (***4  Articles***)
