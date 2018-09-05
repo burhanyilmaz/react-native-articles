@@ -24,7 +24,7 @@
 
 [Expo](./ArticleList/expo.md) (***17 Articles***)
 
-[Firebase](./ArticleList/firebase.md) (***4 Articles***)
+[Firebase](./ArticleList/firebase.md) (***3 Articles***)
 
 [Form](./ArticleList/form.md) (***1 Articles***)
 
