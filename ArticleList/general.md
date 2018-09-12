@@ -121,3 +121,5 @@
 [Building a Persistent React Native Chat App: Part I — Database](https://medium.com/@gabrielrumbaut/building-a-persistent-react-native-chat-app-part-i-database-ae9de470ebff)
 
 [Building a Persistent React Native Chat App: Part II — Server](https://medium.com/@gabrielrumbaut/building-a-persistent-react-native-chat-app-part-ii-server-d9fc16061afe)
+
+[Simple Recipe to Build a Theme App in React Native](https://hackernoon.com/simple-recipe-to-build-a-theme-app-in-react-native-8e2456f81bc5)
