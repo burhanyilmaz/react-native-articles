@@ -123,3 +123,5 @@
 [Building a Persistent React Native Chat App: Part II — Server](https://medium.com/@gabrielrumbaut/building-a-persistent-react-native-chat-app-part-ii-server-d9fc16061afe)
 
 [Simple Recipe to Build a Theme App in React Native](https://hackernoon.com/simple-recipe-to-build-a-theme-app-in-react-native-8e2456f81bc5)
+
+[Accessing Geo-location and App Permissions in React Native and Expo](https://medium.com/react-native-training/accessing-geo-location-and-app-permissions-in-react-native-and-expo-e7a1bd4714a2)
