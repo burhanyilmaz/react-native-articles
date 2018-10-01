@@ -25,3 +25,5 @@
 [A Simple React Native Navigation Drawer](https://medium.com/@mollyseeley/a-simple-react-native-navigation-drawer-ba10fc203ad)
 
 [Custom Drawer Navigator React Native](https://medium.com/@amitdhawan_20991/custom-drawer-navigator-react-native-c25ce927fc39)
+
+[Understanding Navigation in a React Native App](https://hackernoon.com/navigation-in-a-react-native-app-cf61ed85e80b)
