@@ -36,6 +36,8 @@
 
 [Ignite](./ArticleList/ignite.md) (***1 Articles***)
 
+[Image](./ArticleList/image.md) (***1 Articles***)
+
 [Library](./ArticleList/library.md) (***1 Articles***)
 
 [Local Database](./ArticleList/localDatabase.md) (***2 Articles***)
@@ -54,11 +56,13 @@
 
 [React Native Router Flux](./ArticleList/reactNativeRouterFlux.md) (***1 Articles***)
 
+[Setup](./ArticleList/setup.md) (***1 Articles***)
+
 [Style](./ArticleList/style.md) (***3 Articles***)
 
 [Socket.io](./ArticleList/socketio.md) (***1 Articles***)
 
-[Test](./ArticleList/test.md) (***4 Articles***)
+[Test](./ArticleList/test.md) (***5 Articles***)
 
 [UI](./ArticleList/ui.md) (***1 Articles***)
 
